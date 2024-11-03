@@ -1,0 +1,14 @@
+D:\course_C#\BMS\bin\Debug\net8.0\BMS.exe
+D:\course_C#\BMS\bin\Debug\net8.0\BMS.deps.json
+D:\course_C#\BMS\bin\Debug\net8.0\BMS.runtimeconfig.json
+D:\course_C#\BMS\bin\Debug\net8.0\BMS.dll
+D:\course_C#\BMS\bin\Debug\net8.0\BMS.pdb
+D:\course_C#\BMS\obj\Debug\net8.0\BMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\course_C#\BMS\obj\Debug\net8.0\BMS.AssemblyInfoInputs.cache
+D:\course_C#\BMS\obj\Debug\net8.0\BMS.AssemblyInfo.cs
+D:\course_C#\BMS\obj\Debug\net8.0\BMS.csproj.CoreCompileInputs.cache
+D:\course_C#\BMS\obj\Debug\net8.0\BMS.dll
+D:\course_C#\BMS\obj\Debug\net8.0\refint\BMS.dll
+D:\course_C#\BMS\obj\Debug\net8.0\BMS.pdb
+D:\course_C#\BMS\obj\Debug\net8.0\BMS.genruntimeconfig.cache
+D:\course_C#\BMS\obj\Debug\net8.0\ref\BMS.dll
